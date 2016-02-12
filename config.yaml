@@ -20,7 +20,7 @@ Taxonomies:
 params:
   CopyrightHTML: "Copyright &#xA9; 2016. All Rights Reserved."
   GitHubUser: "NeilyoSummer"
-  SidebarRecentLimit: 5
+  SidebarRecentLimit: 5 
   DateForm : "2006年01月02日"
   Tagline: "一个程序员的思考与总结"
   Description: "如果你没有感觉到时间不够用时，你多半正在虚度光阴。"
